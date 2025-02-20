@@ -1,2 +1,2 @@
-# LLM-Assisted-Projects
-Use LLMs to create various complex codebases
+# LLM-Assisted-Snake
+Use Deepseek to create new and improved Snake game
