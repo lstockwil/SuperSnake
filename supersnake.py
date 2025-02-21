@@ -1,3 +1,8 @@
+'''
+snake_plus.py
+- Use Deepseek R1 to iteratively develop Python-based Snake game
+- Code should be complex, well-structured, well-commented
+'''
 import pygame
 import sys
 import random
